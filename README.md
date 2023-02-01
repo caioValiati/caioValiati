@@ -1,5 +1,7 @@
 ### Olá, meu nome é Caio Geraldo 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Caio+Geraldo;Seja+bem+vindo)](https://git.io/typing-svg)
+
 - 🔭 Estudo e pratico desenvolvimento web front-end 
 - 🖥️ Sou Técnico em análise e desenvolvimento de software 
 - 🌱 Moro em Rio Verde - Goiás (BR)
