@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF&background=FFFFFF00&width=435&lines=Hello%2C+my+name+is+Caio+Geraldo%F0%9F%91%8B;Be+welcome+%E3%83%84+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF&background=FFFFFF00&width=435&lines=Hello%2C+my+name+is+Caio+Geraldo+%F0%9F%91%8B;Be+welcome+%E3%83%84+)](https://git.io/typing-svg)
 
 - 🔭 Study and practice web development
 - 🖥️ I'm a technician in software analysis and development
